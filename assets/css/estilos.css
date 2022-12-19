@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/PHOTO-2022-11-01-18-15-17\ \(1\).jpg");
+  background-image: url("../img/PHOTO-2022-11-01-18-15-17\ \(1\).jpg");
   background-repeat: no-repeat;
   background-position: left;
   color: black;
