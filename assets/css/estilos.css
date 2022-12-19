@@ -20,6 +20,14 @@ body {
   background-position: center;
 }
 
+/* Mis fork */
+
+#Mis-fork .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 /* Contacto */
 
 #Contacto form label {
